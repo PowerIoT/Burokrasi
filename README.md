@@ -6,6 +6,7 @@ Tübitak bürokrasi süreci, start-up etkinlikleri planları
 ## TUBITAK
 * 1. aşama tamam.
 * 2. aşama daha detaylı bir form doldurulacak. Formu ekleyeceğim
+* (2. çağrı duyurusu ve takvim)[https://www.tubitak.gov.tr/sites/default/files/2204/1512_cagri_duyurusu_2018_2.pdf]
 
 ## Start-up yarışmaları
 * Yurtiçi-dışı tüm yarışmaları kovalayalım. Yarışmalarda yapılacak sunum eklenebilir. 
