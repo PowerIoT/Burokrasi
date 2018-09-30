@@ -10,3 +10,6 @@ Tübitak bürokrasi süreci, start-up etkinlikleri planları
 
 ## Start-up yarışmaları
 * Yurtiçi-dışı tüm yarışmaları kovalayalım. Yarışmalarda yapılacak sunum eklenebilir. 
+
+## Müşteri
+* Burada şöyle bir ekip buldum -> https://www.nrgcommunitysolar.com . Anladığım kadarıyla bu arkadaşlar, üç eyalette Güneş Paneli çözümleri sunuyorlar. Bu arkadaşlarla konuşup, ihtiyaçlarını öğrenip, servis satmaya çalışalım bence. Ben buradan dönmeden, buradaki büyük-küçük solar firmalarıyla bağlantıyı kuralım. Yurtdışına ürün satabilirsek TİM'den yürürüz. 
