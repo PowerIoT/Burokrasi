@@ -14,3 +14,8 @@ Tübitak bürokrasi süreci, start-up etkinlikleri planları
 
 ## Müşteri
 * Burada şöyle bir ekip buldum -> https://www.nrgcommunitysolar.com . Anladığım kadarıyla bu arkadaşlar, üç eyalette Güneş Paneli çözümleri sunuyorlar. Bu arkadaşlarla konuşup, ihtiyaçlarını öğrenip, servis satmaya çalışalım bence. Ben buradan dönmeden, buradaki büyük-küçük solar firmalarıyla bağlantıyı kuralım. Yurtdışına ürün satabilirsek TİM'den yürürüz. 
+
+## Rakip Analizi
+* [EMD International](https://www.emd.dk/forecasting-solutions/)
+* [Runiwatt](http://reuniwatt.com/en/)
+* [Ecofys](https://www.ecofys.com/en/)
